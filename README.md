@@ -22,6 +22,7 @@
 ![TensorFlow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white)  
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![numpy](https://img.shields.io/badge/numpy-13243?style=for-the-badge&logo=numpy&logoColor=white)
+![matplotlib](https://img.shields.io/badge/matplotlib-008FC7?style=for-the-badge)
 
 ## DevOps
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
