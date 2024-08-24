@@ -10,7 +10,7 @@
   - M.S
   - Major in Computer Science
 
-
+---
 ## Skills
 
 ### Language
