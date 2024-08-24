@@ -2,8 +2,14 @@
 
 # Lee Yong Jun
 ---
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyj4032)](https://solved.ac/lyj4032)
+## Education 
+- Inha Univ (2014.03 ~ 2020.02)
+  - B.S   
+  - Double Major : Computer Science and Mathematics
+- Inha Univ  (2020.03 ~ 2022.08)
+  - M.S
+  - Major in Computer Science
+
 
 <h3 align="center">Skills</h3>
 <p align = "center" >
@@ -17,4 +23,8 @@
   <br>  
 </p>
 
+---
+## Competitive Programming
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyj4032)](https://solved.ac/lyj4032)
 
