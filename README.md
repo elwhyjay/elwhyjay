@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # Lee Yong Jun  
-- jqueen.astro@gmail.com
+- email: jqueen.astro@gmail.com
 ---
 ## Education 
 - Inha Univ (2014.03 ~ 2020.02)
