@@ -18,7 +18,7 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white) 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Python&logoColor=white)
-![JS](https://img.shields.io/badge/Javascrip-#7DF1E?style=for-the-badge&logo=Python&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-#7DF1E?style=for-the-badge&logo=Python&logoColor=white)
 
 
 ### ML/DL
