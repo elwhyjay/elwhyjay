@@ -28,6 +28,7 @@
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![numpy](https://img.shields.io/badge/numpy-13243?style=for-the-badge&logo=numpy&logoColor=white)
 ![matplotlib](https://img.shields.io/badge/matplotlib-008FC7?style=for-the-badge)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=Polars&logoColor=white)
 
 ## DevOps
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
