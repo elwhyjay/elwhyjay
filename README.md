@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-# Lee Yong Jun  
-- email: jqueen.astro@gmail.com
+# Lee Yong Jun 
+## Contact
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jqueen.astro@gmail.com)](mailto:jqueen.astro@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in//)](https://www.linkedin.com/in//)
 ---
 ## Education 
 - Inha Univ (2014.03 ~ 2020.02)
