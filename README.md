@@ -1,12 +1,12 @@
-### Hi I'm Lee YongJun 👋
+#### Hi I'm Lee YongJun 👋
 
-### Contact
+#### Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:jqueen.astro@gmail.com)](mailto:jqueen.astro@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yongjun-lee-47b0201bb/)](https://www.linkedin.com/in/yongjun-lee-47b0201bb/)
 [![githubpages Badge](https://img.shields.io/badge/git%20blog-black?style=flat&logo=github&logoColor=white&link=https://elwhyjay.github.io/)](https://elwhyjay.github.io/)
 ---
 
-### Skills
+#### Skills
 
 #### Language
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C%2B%2B&logoColor=white)
@@ -28,7 +28,7 @@
 ![Git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
-### Competitive Programming
+#### Competitive Programming
 
 #### [BOJ](https://www.acmicpc.net/)
 [![Solved.ac
