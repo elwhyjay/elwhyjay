@@ -1,4 +1,4 @@
-#### Hi I'm Lee YongJun 👋
+#### Hi I'm YongJun 👋
 
 #### Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:jqueen.astro@gmail.com)](mailto:jqueen.astro@gmail.com)
