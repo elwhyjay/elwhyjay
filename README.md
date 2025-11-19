@@ -27,10 +27,4 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white)
 
----
-#### Competitive Programming
-
-#### [BOJ](https://www.acmicpc.net/)
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=lyj4032)](https://solved.ac/lyj4032)
 
