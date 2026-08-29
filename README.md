@@ -1,5 +1,5 @@
 #### Hi I'm YongJun 👋
-> LLM inference systems — kernels, speculative decoding, quantization runtimes. Mostly upstream.
+> LLM inference systems — kernels, speculative decoding, quantization, inference runtimes, scheduling, etc. Mostly upstream.
 #### Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:jqueen.astro@gmail.com)](mailto:jqueen.astro@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yjlee121/)](https://www.linkedin.com/in/yjlee121/)
